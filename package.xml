@@ -7,6 +7,12 @@
   <maintainer email="rhodyboland@hotmail.com">rhody</maintainer>
   <license>TODO: License declaration</license>
 
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <!-- <exec_depend>PiicoDev_QMC6310</exec_depend> -->
+  <!-- <exec_depend>PiicoDev_Unified</exec_depend> -->
+
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>
